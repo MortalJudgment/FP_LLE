@@ -1,4 +1,5 @@
 # Mathematical and numerical investigations of the Lugiato-Lefever equation for Kerr optical frequency combs 
+## Master Thesis - Supervisor: Professor Stephane Balac (04/2023-07/2023)
 ## Table of Contents
 
 - [Introduction](#introduction)
